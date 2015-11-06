@@ -51,6 +51,7 @@ h = -6 + sqrt(10) * (randn(1,10000));
 hist(h)
 hist(h, 50) % 50 bins
 
+% help
 help eye
 help rand
-help he
+
